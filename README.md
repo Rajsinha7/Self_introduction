@@ -1,4 +1,4 @@
-# DEMO
+
 <h1 align="center">Hi 👋, I'm Raj Sinha</h1>
 <h3 align="center">A passionate Python Fullstack Developer.</h3>
 
